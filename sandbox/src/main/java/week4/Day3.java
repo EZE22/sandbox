@@ -1,6 +1,7 @@
 package week4;
 
 public class Day3 {
-    //Wednesday one on ones work on assignments and project in with your team
+    //Add the zoo package
+    //Follow the second UML Diagram for Inheritance.
 
 }

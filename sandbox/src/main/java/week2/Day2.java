@@ -99,8 +99,6 @@ Exception(s) the method can throw.
 //What is git clone command used for?
 //What is git?
 
-import java.util.Scanner;
-
 public class Day2 {
    public static void main(String[] args) {
       //Exception Handling
