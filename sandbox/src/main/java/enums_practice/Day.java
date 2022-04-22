@@ -11,10 +11,11 @@ public class Day {
 
     //Days Getter
     public Days getCurrentDay() {
-        return days;
+        return this.days;
     }
 
     //Method to get current weather
+    //State Tax Rate Example State is enum and tax rate is number
     public String currentDaysWeather(Days day) {
         switch (day) {
             case MONDAY -> {
